@@ -1,0 +1,150 @@
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\Main.exe
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.World.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Bson.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.Core.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\x64\concrt140.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\x64\cvextern.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\x64\msvcp140.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\x64\opencv_ffmpeg343_64.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\x64\vcruntime140.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\x64\opencv_ffmpeg401_64.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\HIKVision.cs
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\Vision.cs
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\Main.exe.config
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\DnsClient.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.UI.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\MvCameraControl.Net.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\System.Buffers.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\ZedGraph.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\DnsClient.xml
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.UI.xml
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.World.xml
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Bson.xml
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.xml
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.Core.xml
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\System.Buffers.xml
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\ZedGraph.xml
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\de\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\es\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\fr\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\hu\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\it\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\ja\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\pt\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\ru\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\sk\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\sv\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\tr\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\obj\x64\Debug\Main.ConfigCamera.resources
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\obj\x64\Debug\Main.FindCenter.resources
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\obj\x64\Debug\Main.Main.resources
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\obj\x64\Debug\Main.Properties.Resources.resources
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\obj\x64\Debug\Main.csproj.GenerateResource.Cache
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\obj\x64\Debug\Main.exe
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\obj\x64\Debug\Main.pdb
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\bin\x64\Debug\Main.pdb
+G:\Thieu\Internet of Things\Project\Assembly-Machine\Main\obj\x64\Debug\Main.csprojResolveAssemblyReference.cache
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\x64\concrt140.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\x64\cvextern.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\x64\msvcp140.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\x64\opencv_ffmpeg343_64.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\x64\vcruntime140.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\x64\opencv_ffmpeg401_64.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\HIKVision.cs
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\Vision.cs
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\Main.exe.config
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\Main.exe
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\Main.pdb
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\DnsClient.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.UI.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.World.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Bson.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.Core.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\MvCameraControl.Net.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\System.Buffers.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\ZedGraph.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\DnsClient.xml
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.UI.xml
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.World.xml
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Bson.xml
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.xml
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.Core.xml
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\System.Buffers.xml
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\ZedGraph.xml
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\de\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\es\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\fr\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\hu\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\it\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\ja\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\pt\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\ru\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\sk\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\sv\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\tr\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\obj\x64\Debug\Main.csprojResolveAssemblyReference.cache
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\obj\x64\Debug\Main.ConfigCamera.resources
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\obj\x64\Debug\Main.FindCenter.resources
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\obj\x64\Debug\Main.Main.resources
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\obj\x64\Debug\Main.Properties.Resources.resources
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\obj\x64\Debug\Main.csproj.GenerateResource.Cache
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\obj\x64\Debug\Main.exe
+E:\THIEU-FII\Projects\Assembly Machine\new1\Assembly-Machine\Main\obj\x64\Debug\Main.pdb
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\Main.exe.config
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\obj\x64\Debug\Main.exe
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\obj\x64\Debug\Main.pdb
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\x64\concrt140.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\x64\cvextern.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\x64\msvcp140.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\x64\opencv_ffmpeg343_64.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\x64\vcruntime140.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\x64\opencv_ffmpeg401_64.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\HIKVision.cs
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\Vision.cs
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\Main.exe
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\Main.pdb
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\DnsClient.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.UI.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.World.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Bson.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.Core.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\MvCameraControl.Net.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\System.Buffers.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\ZedGraph.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\DnsClient.xml
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.UI.xml
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\Emgu.CV.World.xml
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Bson.xml
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.xml
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\MongoDB.Driver.Core.xml
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\System.Buffers.xml
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\ZedGraph.xml
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\de\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\es\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\fr\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\hu\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\it\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\ja\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\pt\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\ru\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\sk\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\sv\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\tr\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\obj\x64\Debug\Main.csprojResolveAssemblyReference.cache
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\obj\x64\Debug\Main.ConfigCamera.resources
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\obj\x64\Debug\Main.FindCenter.resources
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\obj\x64\Debug\Main.Main.resources
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\obj\x64\Debug\Main.Properties.Resources.resources
+E:\THIEU-FII\Projects\Assembly Machine\Assembly-Machine\Main\obj\x64\Debug\Main.csproj.GenerateResource.Cache
